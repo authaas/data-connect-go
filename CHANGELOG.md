@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file. See [conven
 - - -
 ## 0.1.0 - 2026-09-21
 #### Features
+- initial release - (7655c7c) - Nathan Blair
+
+- - -
+
+## 0.1.0 - 2026-09-21
+#### Features
 - add invalid principal error - (961ea32) - Nathan Blair
 #### Miscellaneous Chores
 - initial commit - (065aa44) - Nathan Blair
